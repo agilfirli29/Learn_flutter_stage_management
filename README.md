@@ -8,10 +8,10 @@ To start working with this project locally, follow these steps:
 
 1.Clone the repository to your local machine using the following command:
    ```sh
-   kl
+   git clone https://github.com/agilfirli29/Learn_flutter_stage_management.git
    ```
 2. Navigate to the project directory:
 
     ```bash
-      cd Learn_Flutter_Layout-2
+      cd Learn_flutter_stage_management
     ```
